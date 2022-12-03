@@ -1,1 +1,3 @@
-# chrome-top-page-cats
+## 概要
+
+Chrome のトップページをお気に入りのねこ画像に差し替える拡張機能
